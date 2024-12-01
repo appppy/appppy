@@ -1,6 +1,6 @@
 - 👋 Hi, I’m appppy
-- 👀 I’m interested in Android.
-- 🌱 I’m currently learning ROS.
+- 👀 I’m interested in linux.
+- 🌱 I’m currently learning ROS2.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
